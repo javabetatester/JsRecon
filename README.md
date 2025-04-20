@@ -1,6 +1,6 @@
 # JSRecon
 
-**Ferramenta de reconnaissance para extração de padrões em arquivos `main*.js` de múltiplos domínios.**
+**Ferramenta de recon para extração de padrões em arquivos `main*.js` de múltiplos domínios.**
 
 ---
 
